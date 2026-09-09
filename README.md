@@ -1,4 +1,4 @@
-#Customer Support System
+##Customer Support System
 
 An customer support platform designed to simulate realistic customer interactions and assist support agents with intelligent response guidance.
 
