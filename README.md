@@ -1,6 +1,6 @@
-# AI-Powered Customer Support System
+#Customer Support System
 
-An AI-powered customer support platform designed to simulate realistic customer interactions and assist support agents with intelligent response guidance.
+An customer support platform designed to simulate realistic customer interactions and assist support agents with intelligent response guidance.
 
 The system combines a **Customer Simulator Agent**, **Support Knowledge Base with RAG**, **semantic search**, **conversation management**, and **FastAPI/Streamlit interfaces** to create a realistic customer-support training environment.
 
